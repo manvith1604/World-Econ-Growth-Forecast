@@ -30,6 +30,10 @@ Source : [Access the dataset here](https://www.imf.org/en/Publications/SPROLLS/w
 | Years (multiple columns)     | Feature   | Continuous | Years considered (1980-2029)                  |
 | Estimate Start After         | Feature   | Integer    | Year till which data is collected             |
 
+## Overview
+
+![image](https://github.com/user-attachments/assets/09bbffd5-49a2-4b20-a470-37abe3a8f83e)
+
 ## Setup Instructions
 
 ### Prerequisites
