@@ -171,3 +171,8 @@ MLflow Experiment Tracking:
 14. **Streamlit**: Creates interactive web applications for visualizing data, model predictions, and performance metrics, facilitating easier engagement. 
 
 15. **Google Cloud Platform**: Provides scalable cloud infrastructure for hosting, managing, and deploying machine learning models and applications. GCP offers the necessary infrastructure to deploy models at scale, ensuring high availability and performance for the deployed services.
+
+## Website Demo
+
+[56ee1155-5af4-4c8a-8c95-7e27cdd71998.webm](https://github.com/user-attachments/assets/ce20e480-4d6c-4f8d-b6a6-1cabbb563057)
+
